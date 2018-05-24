@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsrcFiles.a  CMakeFiles/srcFiles.dir/content_preproc.cpp.o CMakeFiles/srcFiles.dir/util.cpp.o CMakeFiles/srcFiles.dir/new_word_extract.cpp.o CMakeFiles/srcFiles.dir/mysql_api.cpp.o
+/usr/bin/ranlib libsrcFiles.a
